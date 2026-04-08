@@ -12,3 +12,6 @@
   
   The parameters to reproduce each run can be found in the ifile.csv files. A template input file for adeli2024 is given in ifile_template, as well as the gmsh .geo file to generate to mesh.
 
+  Model that didn't converge are marked by -10000 values.
+  Stability is evaluated on the last 10 outputs. 
+

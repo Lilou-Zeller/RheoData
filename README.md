@@ -10,7 +10,5 @@
    - POST_test_paper_March2026_exp3 : for figure 7
    - POST_test_paper_March2026_*Mesh : for the mesh sensitivity study
   
-  The parameters to reproduce each run can be found in the ifile.csv files. A template input file for adeli2024 is given in ifile_template.
-
-  # How to read the .csv files
+  The parameters to reproduce each run can be found in the ifile.csv files. A template input file for adeli2024 is given in ifile_template, as well as the gmsh .geo file to generate to mesh.
 

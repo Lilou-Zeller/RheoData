@@ -1,6 +1,0 @@
-,Path,Pi_dam,Pi_psi,Pi_sto,Variable_Mean,Variable_STD,STD_Mean_Ratio
-0,/home/saezf/scratch_rheovolution/POST_test_PAPER_Mar2026_0.5Mesh/test_PAPER_Mar2026_BASE_0.5Mesh_mean1_1.5e+09_std1_0.25/threshold_1.0,0.25,-0.0001961168856638,0.25,202421747.5977773,180531.3525803563,0.000891857494181315
-1,/home/saezf/scratch_rheovolution/POST_test_PAPER_Mar2026_0.5Mesh/test_PAPER_Mar2026_BASE_0.5Mesh_mean1_1.8e+09_std1_0.25/threshold_1.0,0.125,-0.0001961168856638,0.25,212906674.8758467,235206.91577908152,0.0011047418589212332
-2,/home/saezf/scratch_rheovolution/POST_test_PAPER_Mar2026_0.5Mesh/test_PAPER_Mar2026_BASE_0.5Mesh_mean1_1e+09_std1_0.25/threshold_1.0,0.5,-0.0001961168856638,0.25,168440790.60652104,335795.6107831712,0.0019935528061465367
-3,/home/saezf/scratch_rheovolution/POST_test_PAPER_Mar2026_0.5Mesh/test_PAPER_Mar2026_BASE_0.5Mesh_mean1_7.5e+08_std1_0.25/threshold_1.0,0.625,-0.0001961168856638,0.25,-1000000.0,0.0,-0.0
-4,/home/saezf/scratch_rheovolution/POST_test_PAPER_Mar2026_0.5Mesh/test_PAPER_Mar2026_BASE_0.5Mesh_mean1_1.2e+09_std1_0.25/threshold_1.0,0.375,-0.0001961168856638,0.25,187801659.0238799,141569.0437106639,0.0007538221144929434

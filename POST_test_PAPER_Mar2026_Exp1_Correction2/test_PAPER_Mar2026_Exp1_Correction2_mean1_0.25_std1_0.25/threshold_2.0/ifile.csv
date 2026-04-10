@@ -1,0 +1,2 @@
+,StoVar,Mean0,STD0,Mean1,STD1,FinalTime,nTime,SpaLength,TempCorr,EvolType,DamageScale,HealingScale,ThresType,ThresQuan,ThresValue
+1,sto(Gamma0),1.e-03,2.5e-04,2.5e-01,6.25e-02,10000000000000.0,750000.0,500.0,0.0,smooth(Strain),1.e-02,1.e-02,constant,work_rate,8.52e-06
